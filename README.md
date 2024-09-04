@@ -1,5 +1,5 @@
 Yesterday Comes After
-A project by Kc Weaver
+a project by Kc Weaver
 
 This game attempts to display how one can use state to change an environment. To highlight the power of video game trickery to manipulate an experience,
 this game takes place in a liminal space with an infinite time loop. There is no end but two different versions of the room to cycle through.
